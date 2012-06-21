@@ -4,5 +4,5 @@
 private function donarPit () : void
 {
 	Lateral.text='caca';
-	color = 0xff0000;
+	color = 0x0000ff;
 }
