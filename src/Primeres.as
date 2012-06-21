@@ -3,6 +3,6 @@
 
 private function donarPit () : void
 {
-	Lateral.text='caca';
+	Lateral.text='blau';
 	color = 0x0000ff;
 }
